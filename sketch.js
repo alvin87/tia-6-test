@@ -11,7 +11,7 @@ function draw() {
   
   //mengatur warna / pencahayaan
   if (gantiWarna === true) {
-    let colors = color('yellow');
+    let colors = color('red');
     ambientLight(colors);
   }
 
